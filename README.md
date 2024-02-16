@@ -16,7 +16,7 @@ Please note that **this script also creates a `new_audio.mp3` in addition to `ne
 
 ### USEFUL APPLICATIONS
 
-Simplicity is key (it's even in the name). It is intended for use in:
+Simplicity is key (it's even in the name). Here are some non-exhaustive use examples:
 - theatre licensing companies when dealing with audio transposition requests, often from amateur theatre companies that rely on prerecorded orchestras
 - quick transposition of audio files for audition practice
 - karaoke track transposition (need to be sober enough to use the command line)
