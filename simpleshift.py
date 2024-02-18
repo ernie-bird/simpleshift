@@ -2,7 +2,6 @@
 #this program runs with arguments:
 #script name, old audio name, new audio name, semitones (1, +4, or -4 etc.)
 
-import sys
 from sys import argv
 import time
 from pathlib import Path
