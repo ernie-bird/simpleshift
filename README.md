@@ -28,4 +28,4 @@ This script preserves the stereo, but the output is a bit more spacial and loses
 
 -------
 
-This script does the job for me, but I cannot emphasize enough how inexperienced I am at coding. Please, reach out, commit, fork, and do whatever you want! (this is my first program, so yaaay?)
+This script does the job for me, but I cannot emphasize enough how inexperienced I am at coding!
