@@ -24,7 +24,7 @@ Simplicity is key (it's even in the name). Here are some non-exhaustive use exam
 ### PROBLEMS
 
 Transposed resampled audio will always ~~suck~~ sound disappointing.
-This script preserves the stereo, but the output is a bit more spacial and loses the center a little bit more than an equivalent job Logic's pitch shift would do.
+This script preserves the stereo, but the output is a bit more spacial and loses the center a little bit more than an equivalent job Logic's pitch shift would do. Further research is needed to preserve better quality.
 
 -------
 
