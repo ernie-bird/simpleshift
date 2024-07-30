@@ -15,8 +15,6 @@ Here you can specify the names and the paths of the original audio and the outpu
 Please note that **this script also creates a `new_audio.mp3` in addition to `new_audio.wav`, automatically.** The name will be identical to the name specified in the output `wav` file. 
 
 ### USEFUL APPLICATIONS
-
-Simplicity is key (it's even in the name). Here are some non-exhaustive use examples:
 - theatre licensing companies when dealing with audio transposition requests, often from amateur theatre companies that rely on prerecorded orchestras
 - quick transposition of audio files for audition practice
 - karaoke track transposition (need to be sober enough to use the command line)
