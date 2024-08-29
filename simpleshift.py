@@ -1,6 +1,7 @@
 #This is a simple program that shifts the pitch of a given audio and saves it as a new file in wav and mp3
 #this program runs with arguments:
 #script name, old audio name, new audio name, semitones (1, +4, or -4 etc.)
+# Written by Ernest "Ernie Bird" Deriabin (c). Free to use by anyone.
 
 import sys
 from threading import Thread
